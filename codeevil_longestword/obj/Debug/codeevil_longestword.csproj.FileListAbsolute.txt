@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\codeevil_longestword\codeevil_longestword\bin\Debug\codeevil_longestword.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\codeevil_longestword\codeevil_longestword\obj\Debug\codeevil_longestword.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\codeevil_longestword\codeevil_longestword\bin\Debug\codeevil_longestword.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\codeevil_longestword\codeevil_longestword\bin\Debug\codeevil_longestword.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\codeevil_longestword\codeevil_longestword\obj\Debug\codeevil_longestword.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\codeevil_longestword\codeevil_longestword\obj\Debug\codeevil_longestword.pdb
